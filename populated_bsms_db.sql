@@ -113,13 +113,13 @@ INSERT INTO `product_list` (`product_id`, `product_code`, `category_id`, `name`,
 (49, '049', 8, 'Julie''s Peanut Butter 500g', 'Peanut Butter that meets all of your bread spread needs.', 45, 50, 1, 0, '2022-02-14 09:42:00', '2022-02-14 11:52:32', 'Images\Non-Bread\peanut_butter_500g'),
 (50, '050', 8, 'Coke Mismo', 'A Small Coke intended for snacks.', 20, 30, 1, 0, '2022-02-14 09:42:00', '2022-02-14 11:52:43', 'Images\Non-Bread\coke_mismo.png'),
 (51, '051', 8, 'Coke 1.5L', 'Bigger Coke suitable for group gatherings.', 75, 30, 1, 0, '2022-02-14 09:46:59', '2022-02-14 11:52:50', 'Images\Non-Bread\Coke-1.5-L.png'),
-(52, '052', 7, 'Cheesy Mamon', 'A soft and spongy treat with grated cheese, and delightfully rich butter aroma and cheese notes.', 10, 30, 1, 0, '2022-02-14 09:46:59', '2022-02-14 11:52:50', 'Images\Non-Bread\Coke-1.5-L.png'),
-(53, '053', 7, 'Torta with Raisin', 'With sweet creamy taste and flavor topped with raisin and sugar crystals to enhance the taste.', 10, 30, 1, 0, '2022-02-14 09:46:59', '2022-02-14 11:52:50', 'Images\Non-Bread\Coke-1.5-L.png'),
-(54, '054', 7, 'Chocolate Cupcake', 'A very soft, sweet type flavored-chocolate cupcake topped with peanuts.', 5, 30, 1, 0, '2022-02-14 09:46:59', '2022-02-14 11:52:50', 'Images\Non-Bread\Coke-1.5-L.png'),
-(55, '055', 7, 'Torta', 'A sweet creamy taste and flavor topped raisin and sugar crystal to enhance the taste.', 5, 30, 1, 0, '2022-02-14 09:46:59', '2022-02-14 11:52:50', 'Images\Non-Bread\Coke-1.5-L.png'),
-(56, '056', 7, 'Ube Bar', 'Soft, spongy cake with sweet, dairy ube coated with sugar and desiccated coconut.', 10, 30, 1, 0, '2022-02-14 09:46:59', '2022-02-14 11:52:50', 'Images\Non-Bread\Coke-1.5-L.png'),
-(57, '057', 7, 'Cheese Cupcake', 'Soft and moist cake with sweet cheesy note, topped with condensed milk & grated cheese.', 5, 30, 1, 0, '2022-02-14 09:46:59', '2022-02-14 11:52:50', 'Images\Non-Bread\Coke-1.5-L.png'),
-(58, '058', 7, 'Marble Cupcake', 'Moist cupcake with a chocolate marbling and with a combination of sweet & slightly butter note', 5, 30, 1, 0, '2022-02-14 09:46:59', '2022-02-14 11:52:50', 'Images\Non-Bread\Coke-1.5-L.png');
+(52, '052', 7, 'Cheesy Mamon', 'A soft and spongy treat with grated cheese, and delightfully rich butter aroma and cheese notes.', 10, 30, 1, 0, '2022-02-14 09:46:59', '2022-02-14 11:52:50', 'Images\Snack Cakes\Cheesy-Mamon-1.png'),
+(53, '053', 7, 'Torta with Raisin', 'With sweet creamy taste and flavor topped with raisin and sugar crystals to enhance the taste.', 10, 30, 1, 0, '2022-02-14 09:46:59', '2022-02-14 11:52:50', 'Images\Snack Cakes\Torta-with-Raisin-1.png'),
+(54, '054', 7, 'Chocolate Cupcake', 'A very soft, sweet type flavored-chocolate cupcake topped with peanuts.', 5, 30, 1, 0, '2022-02-14 09:46:59', '2022-02-14 11:52:50', 'Images\Snack Cakes\chocolate-cupcake.png'),
+(55, '055', 7, 'Torta', 'A sweet creamy taste and flavor topped raisin and sugar crystal to enhance the taste.', 5, 30, 1, 0, '2022-02-14 09:46:59', '2022-02-14 11:52:50', 'Images\Snack Cakes\Torta-1.png'),
+(56, '056', 7, 'Ube Bar', 'Soft, spongy cake with sweet, dairy ube coated with sugar and desiccated coconut.', 10, 30, 1, 0, '2022-02-14 09:46:59', '2022-02-14 11:52:50', 'Images\Snack Cakes\Ube-Bar-1.png'),
+(57, '057', 7, 'Cheese Cupcake', 'Soft and moist cake with sweet cheesy note, topped with condensed milk & grated cheese.', 5, 30, 1, 0, '2022-02-14 09:46:59', '2022-02-14 11:52:50', 'Images\Snack Cakes\Cheese-Cupcake-1.png'),
+(58, '058', 7, 'Marble Cupcake', 'Moist cupcake with a chocolate marbling and with a combination of sweet & slightly butter note', 5, 30, 1, 0, '2022-02-14 09:46:59', '2022-02-14 11:52:50', 'Images\Snack Cakes\Marble-Cupcake-1.png');
 
 --
 -- Table structure for table `stock_list`
